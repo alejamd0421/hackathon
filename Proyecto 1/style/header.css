@@ -1,0 +1,9 @@
+header{
+    margin: 5px;
+    text-align: center;
+    background-color: rgb(35, 46, 83);
+}
+header > h4{
+    color: rgb(114, 237, 253) ;
+    background-color: rgb(35, 46, 83);
+}

@@ -1,0 +1,33 @@
+nav{
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    background-color: rgb(138, 166, 199);
+    border-radius: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color:rgb(14, 71, 121);
+    margin-left: 5px;
+    margin-right: 5px;
+    row-gap: 3rem;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+  
+  }
+  
+  nav a:link,
+  nav a:visited,
+  nav a:focus {
+    background: rgb(112, 144, 180);
+  }
+  
+  nav a:hover {
+    background: rgb(99, 97, 97);
+    color: blanchedalmond;
+  }

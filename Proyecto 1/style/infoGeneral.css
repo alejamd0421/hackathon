@@ -1,0 +1,11 @@
+main{
+    text-align: justify;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+main > h2 {
+    text-align: center;
+}
+

@@ -1,0 +1,27 @@
+/*.card {
+  width: 850px;
+  height: 150px;
+  margin: 5px;
+  padding: 10px;
+  border: 5px solid black;
+}*/
+
+.card{
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  margin: 5px;
+  margin-bottom: 50px;
+  border-radius: 1rem;
+  border: 5px solid black;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 15px 15px 30px #bebebe,
+             -15px -15px 30px #4b7e9c;
+  transition: 0.2s ease-in-out;
+
+}
+
+.card:hover {
+  box-shadow: 0px 10px 20px rgba(0,0,0,0.1);
+}

@@ -1,0 +1,22 @@
+.footer {
+   
+    text-align: right;
+    display: flex;
+    flex-flow: column;
+    justify-content:center;
+    color: whitesmoke;
+    font-weight: normal;
+    letter-spacing: 2px;
+    padding: 30px 0;
+    
+  }
+  
+  .footer li {
+    margin-bottom: 3px;
+    font-size: .7rem;
+  }
+  
+  .footer > h2 {
+    color: whitesmoke;
+    margin-bottom: 0;
+  }

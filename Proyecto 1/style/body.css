@@ -1,0 +1,13 @@
+body{
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.seccion{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-bottom: 50px;
+    gap: 40px;
+}

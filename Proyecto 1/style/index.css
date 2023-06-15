@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans Unicode', sans-serif;
+    background-color: rgb(216, 229, 240); 
+  }
